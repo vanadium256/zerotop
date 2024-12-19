@@ -13,3 +13,7 @@ Gives a list of processes and gives the ability to kill the process by pressing 
 # How to use
 
 ./zerotop.sh
+
+# zerotop2 Coming Soon!
+
+Now the text will be colored, and ASCII art zerotop has been added. Added the function of viewing the Internet speed. THE SCRIPT IS COMPLETELY REWRITTEN IN PYTHON!
